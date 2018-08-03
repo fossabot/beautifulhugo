@@ -1,9 +1,5 @@
 # Changelog
 
-## Unreleased - 2018-07-26
-
-Forked from [Beautiful Hugo](https://github.com/halogenica/beautifulhugo) and branded.
-
 ### add
 
 - SEO structured data
@@ -11,6 +7,7 @@ Forked from [Beautiful Hugo](https://github.com/halogenica/beautifulhugo) and br
 - Table of contents
 - Archives page ( from [Even theme](https://themes.gohugo.io/hugo-theme-even/) )
 - Related posts
+- Param for load katex lib
 
 ### update
 
@@ -18,3 +15,4 @@ Forked from [Beautiful Hugo](https://github.com/halogenica/beautifulhugo) and br
 - Rewrite page header and footer
 - Use post logo for top images
 - Change 404 template ( remove image )
+- Remove cdn lib, use local
