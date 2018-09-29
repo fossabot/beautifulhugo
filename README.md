@@ -1,6 +1,7 @@
 # Beautiful Hugo - A port of Beautiful Jekyll Theme
 
 ![Beautiful Hugo Theme Screenshot](images/screenshot.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpad92%2Fbeautifulhugo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpad92%2Fbeautifulhugo?ref=badge_shield)
 
 ## Installation
 
@@ -139,3 +140,6 @@ This is a port of the Jekyll theme [Beautiful Jekyll](https://deanattali.com/bea
 ## License
 
 MIT Licensed, see [LICENSE](https://github.com/halogenica/Hugo-BeautifulHugo/blob/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpad92%2Fbeautifulhugo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpad92%2Fbeautifulhugo?ref=badge_large)
